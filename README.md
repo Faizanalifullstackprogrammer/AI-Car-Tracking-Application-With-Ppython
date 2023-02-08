@@ -31,20 +31,21 @@ To get a local copy up and running follow these simple steps.
   - [ ] `pip3 install opencv-python` only if you get error related to `cv2`.
 - [ ] Run `python3 car_and_human_trackig.py` to run the application.
 
+
 ## Authors
 
-👤 **Divyesh Patel**
+👤 **Mian Faizan Ali Full Stack Programmer**
 
-- GitHub: [@Div685](https://github.com/Div685)
-- Twitter: [@div_685](https://twitter.com/div_685)
-- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-daxa-patel/)
+- GitHub: [@Faizanalifullstackprogrammer](https://github.com/Faizanalifullstackprogrammer)
+- Twitter: [@mianfaizanali](https://twitter.com/mianfaizanali)
+- LinkedIn: [Mianfaizanali](https://pk.linkedin.com/in/mianfaizanali)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Div685/AI-Car-Tracking-with-python/issues).
+Feel free to connect anytime
 
 
 ## Show your support
